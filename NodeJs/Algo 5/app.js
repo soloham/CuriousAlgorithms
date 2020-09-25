@@ -1,26 +1,20 @@
-let set = [];
-function find(n){
-  let ind = 0;
-  let res = input.indexOf(n) == -1
-  if(res) input = input.splice(ind, 1)
-  return res;
-}
-
-function solveObvious(){
-  if(set.length == 0) return 1;
-  for (let i = 1; i < 100001; i++) {
-    if(find(i)) return i
+function solveObvious(A){
+  A = A.filter(x => x > 0).sort((a,b) => a - b);
+  
+  let n = 0;
+  for (let i = 0; i < A.length; i++) {
+    if(n < A[i]) return n
+    n++
   }
 }
 let input = JSON.parse(process.argv[2] || '[5,7,9,2,1,-4,0,7]') 
-set = [...input];
 console.log('INPUT', input);
-let res = solveObvious()
+let res = solveObvious(input)
 console.log('-> RESULT:', res);
 
 let start = new Date().getTime();
 for (let i = 0; i < 10000; i++) {
-  solveObvious()
+  solveObvious(input)
 }
 let end = new Date().getTime();
 console.log("-> Time Taken:", end - start, "ms")
