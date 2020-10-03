@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Tree.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Tree.genruntimeconfig.cache

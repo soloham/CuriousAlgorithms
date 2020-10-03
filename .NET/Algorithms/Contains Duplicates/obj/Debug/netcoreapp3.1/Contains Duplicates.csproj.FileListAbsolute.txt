@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\bin\Debug\netcoreapp3.1\Contains Duplicates.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Contains Duplicates\obj\Debug\netcoreapp3.1\Contains Duplicates.genruntimeconfig.cache

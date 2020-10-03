@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Pascal's Triangle.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Pascal's Triangle.genruntimeconfig.cache
