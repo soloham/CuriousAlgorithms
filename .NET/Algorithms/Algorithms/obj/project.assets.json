@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Algorithms\\Pascal's Triangle.csproj",
-      "projectName": "Pascal's Triangle",
-      "projectPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Algorithms\\Pascal's Triangle.csproj",
+      "projectUniqueName": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Algorithms\\1. Pascal's Triangle.csproj",
+      "projectName": "1. Pascal's Triangle",
+      "projectPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Algorithms\\1. Pascal's Triangle.csproj",
       "packagesPath": "C:\\Users\\monos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",

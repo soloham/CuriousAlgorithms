@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Contains Duplicates\\Contains Duplicates.csproj",
-      "projectName": "Contains Duplicates",
-      "projectPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Contains Duplicates\\Contains Duplicates.csproj",
+      "projectUniqueName": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Contains Duplicates\\2. Contains Duplicates.csproj",
+      "projectName": "2. Contains Duplicates",
+      "projectPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Contains Duplicates\\2. Contains Duplicates.csproj",
       "packagesPath": "C:\\Users\\monos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\monos\\Documents\\Projects\\Repositories\\Challenges\\.NET\\Algorithms\\Contains Duplicates\\obj\\",
       "projectStyle": "PackageReference",
