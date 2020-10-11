@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\bin\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\Reverse Singly-Linked List\obj\Debug\netcoreapp3.1\3. Reverse Singly-Linked List.genruntimeconfig.cache

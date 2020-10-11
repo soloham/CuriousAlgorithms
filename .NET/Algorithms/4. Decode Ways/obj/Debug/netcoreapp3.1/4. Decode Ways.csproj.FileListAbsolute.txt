@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\bin\Debug\netcoreapp3.1\4. Decode Ways.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\4. Decode Ways\obj\Debug\netcoreapp3.1\4. Decode Ways.genruntimeconfig.cache

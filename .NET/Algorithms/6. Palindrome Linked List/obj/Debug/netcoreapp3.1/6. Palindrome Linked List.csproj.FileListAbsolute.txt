@@ -1,0 +1,12 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\bin\Debug\netcoreapp3.1\6. Palindrome Linked List.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\6. Palindrome Linked List\obj\Debug\netcoreapp3.1\6. Palindrome Linked List.genruntimeconfig.cache

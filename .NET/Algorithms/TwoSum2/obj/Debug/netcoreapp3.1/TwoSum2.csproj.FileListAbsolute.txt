@@ -1,0 +1,13 @@
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.exe
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.deps.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.runtimeconfig.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.runtimeconfig.dev.json
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\bin\Debug\netcoreapp3.1\TwoSum2.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.csprojAssemblyReference.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.csproj.CoreCompileInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.AssemblyInfoInputs.cache
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.AssemblyInfo.cs
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.dll
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.pdb
+C:\Users\monos\Documents\Projects\Repositories\Challenges\.NET\Algorithms\TwoSum2\obj\Debug\netcoreapp3.1\TwoSum2.genruntimeconfig.cache
